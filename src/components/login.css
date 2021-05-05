@@ -1,0 +1,16 @@
+.inputField {
+  width: 70%;
+}
+.login {
+  margin: 100px;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 20px;
+  text-decoration: dotted;
+}
+
+.alert {
+  width: 70%;
+}
